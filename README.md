@@ -37,22 +37,29 @@ Some of the situations that I found a solution for were, for example, finding a 
 *Master’s degree in Translation and New Technologies: Translation of Software and Multimedia Products*
 
 • Translation and localization of websites, videogames and software (English-Spanish).
+
 • Project management.
 
 #### Pablo de Olavide University (Seville, Spain) (October 2012-October 2013)
 *Master’s degree in International Communication, Translation and Interpreting*
 
 • Specialized translation (scientific, legal, audiovisual, etc.) (English-Spanish).
+
 • Translation for international organizations.
+
 • Translation and localization of websites and software products.
 
 #### Pablo de Olavide University (Seville, Spain) (October 2018-September 2012)
 *Bachelor degree in Translation and Interpreting*
 
 • Mother tongue (Spanish) and foreign languages (English and German). 
+
 • Specialized translation (scientific, technical, legal, etc.) (English-Spanish, German-Spanish). 
+
 • Consecutive and simultaneous interpreting (English-Spanish).
+
 • Technologies applied to translation.
+
 • Audiovisual translation.
 
 ## Experience
@@ -61,25 +68,35 @@ Some of the situations that I found a solution for were, for example, finding a 
 *Customer Service Junior Team Lead*
 
 • Management of Customer Service Team: hiring new team members, designing and implementing onboarding plan, tracking and managing performance of employees.
+
 • Creation of new processes and policies for the team and the school in general.
+
 • Projects to improve and optimize the learning platform.
+
 • Bug reporting to the IT Department.
+
 • Crossfunctional projects with IT and Marketing Departments.
 
 **Lingoda GmbH** (Berlin, Germany) (July 2015-October 2016)   
 *Student Team Member*  
 
 • Customer relationship management.
+
 • Hiring, onboarding, training and managing teachers.
+
 • Projects to improve and optimize the learning platform.
+
 • Improvement of educational infrastructure (teaching materials, language learning concepts, tests, exercises, etc.).
+
 • Translation and proofreading of marketing material.
 
 **Intiwawa e.V.** (Berlin, Germany) (October 2014-January 2015)   
 *Intern Translator (German-Spanish) and Assistant at Tourist Office*  
 
 • Translations of marketing material. 
+
 • Internal and external communication between the teams of Germany and Peru. 
+
 • Research and administration tasks.
 
 **Tatutrad S.L.** (Seville, Spain) (June 2013-July 2013)   
@@ -88,6 +105,9 @@ Some of the situations that I found a solution for were, for example, finding a 
 
 ## Interests and hobbies
 • Languages
+
 • Travelling and discovering different cultures
+
 • Reading historical and detective fictions
+
 • Playing graphic adventure videogames (point-and-click)
