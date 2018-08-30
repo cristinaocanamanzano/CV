@@ -100,7 +100,8 @@ Some of the situations that I found a solution for were, for example, finding a 
 • Research and administration tasks.
 
 **Tatutrad S.L.** (Seville, Spain) (June 2013-July 2013)   
-*Intern Translator (English-Spanish)*  
+*Intern Translator (English-Spanish)* 
+
 • Translation of technical and medical texts using Trados SDL 2007.
 
 ## Interests and hobbies
