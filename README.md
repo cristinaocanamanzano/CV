@@ -104,11 +104,13 @@ Some of the situations that I found a solution for were, for example, finding a 
 
 • Translation of technical and medical texts using Trados SDL 2007.
 
+## Languages
+• Spanish (mother tongue)
+• English
+• German
+
 ## Interests and hobbies
 • Languages
-
 • Travelling and discovering different cultures
-
 • Reading historical and detective fictions
-
 • Playing graphic adventure videogames (point-and-click)
