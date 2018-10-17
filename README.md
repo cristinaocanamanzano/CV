@@ -2,7 +2,7 @@
 
 With a translation background, and after more than three years working in a startup in Germany, first as a customer service representative and then as a customer service team lead, I decided to make a change in my life and took the hard but right decision of going after a challenge. After something where I can make full use of my skills and still do something that I really love and enjoy. After something where I can implement new ideas based on decisions guided throuhg logical thinking, solve complicated puzzles, be involved in an innovative environment... To sum up, I decided to become a developer.
 
-From September on, I'll be studying full-time to become a developer in Makers Academy, a programming bootcamp based in London. This program will last 12 weeks. 
+From September 2018, I'll be studying full-time to become a developer in Makers Academy, a programming bootcamp based in London. This program will last 12 weeks. 
 
 During th is period, my goal will be to learn as much as I can about programming and develop the required skills to be able to find a job in a field relayed to something that I like. My dream is to work in computational linguistcs since this combines what I love the most: languages and new technologies. 
 
