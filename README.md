@@ -1,11 +1,5 @@
 ## Cristina María Ocaña Manzano
 
-With a translation background, and after more than three years working in a startup in Germany, first as a customer service representative and then as a customer service team lead, I decided to make a change in my life and took the hard but right decision of going after a challenge. After something where I can make full use of my skills and still do something that I really love and enjoy. After something where I can implement new ideas based on decisions guided throuhg logical thinking, solve complicated puzzles, be involved in an innovative environment... To sum up, I decided to become a developer.
-
-From September 2018, I'll be studying full-time to become a developer in Makers Academy, a programming bootcamp based in London. This program will last 12 weeks. 
-
-During th is period, my goal will be to learn as much as I can about programming and develop the required skills to be able to find a job in a field relayed to something that I like. My dream is to work in computational linguistcs since this combines what I love the most: languages and new technologies. 
-
 ## Skills
 
 #### Attention to detail
@@ -31,36 +25,46 @@ Some of the situations that I found a solution for were, for example, finding a 
 
 #### Makers Academy (London, United Kindgom) (September 2018-December 2018)
 
-• Programming Bootcamp. 12 weeks.
+Programming Bootcamp. 16 weeks:
+
+  • Ruby, Rails, HTML, CSS, JavaScript
+  
+  • RSpec, Capybara, Jasmine
+  
+  • TDD
+  
+  • Pair programming
+  
+  • Agile philosophy
 
 #### International University Menéndez-Pelayo (online) (November 2012-July 2015)
 *Master’s degree in Translation and New Technologies: Translation of Software and Multimedia Products*
 
-• Translation and localization of websites, videogames and software (English-Spanish).
+• Translation and localization of websites, videogames and software (English-Spanish)
 
-• Project management.
+• Project management
 
 #### Pablo de Olavide University (Seville, Spain) (October 2012-October 2013)
 *Master’s degree in International Communication, Translation and Interpreting*
 
-• Specialized translation (scientific, legal, audiovisual, etc.) (English-Spanish).
+• Specialized translation (scientific, legal, audiovisual, etc.) (English-Spanish)
 
-• Translation for international organizations.
+• Translation for international organizations
 
-• Translation and localization of websites and software products.
+• Translation and localization of websites and software products
 
 #### Pablo de Olavide University (Seville, Spain) (October 2018-September 2012)
 *Bachelor degree in Translation and Interpreting*
 
-• Mother tongue (Spanish) and foreign languages (English and German). 
+• Mother tongue (Spanish) and foreign languages (English and German)
 
 • Specialized translation (scientific, technical, legal, etc.) (English-Spanish, German-Spanish). 
 
-• Consecutive and simultaneous interpreting (English-Spanish).
+• Consecutive and simultaneous interpreting (English-Spanish)
 
-• Technologies applied to translation.
+• Technologies applied to translation
 
-• Audiovisual translation.
+• Audiovisual translation
 
 ## Experience
 
@@ -107,15 +111,13 @@ Some of the situations that I found a solution for were, for example, finding a 
 ## Languages
 • Spanish (mother tongue)
 
-• English
+• English (C1 level)
 
-• German
+• German (B2-C1 level)
 
 ## Interests and hobbies
-• Languages
-
-• Travelling and discovering different cultures
+• Languages, travelling and discovering different cultures
 
 • Reading historical and detective fictions
 
-• Playing graphic adventure videogames (point-and-click)
+• Playing adventure videogames
