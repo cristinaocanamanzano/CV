@@ -23,9 +23,9 @@ Some of the situations that I found a solution for were, for example, finding a 
 
 ## Education
 
-#### Makers Academy (London, United Kindgom) (September 2018-December 2018)
+#### Makers Academy (London, United Kindgom) (August 2018-November 2018, 16 weeks)
 
-Programming Bootcamp. 16 weeks:
+*Programming Bootcamp*
 
   • Ruby, Rails, HTML, CSS, JavaScript
   
@@ -38,38 +38,20 @@ Programming Bootcamp. 16 weeks:
   • Agile philosophy
 
 #### International University Menéndez-Pelayo (online) (November 2012-July 2015)
-*Master’s degree in Translation and New Technologies: Translation of Software and Multimedia Products*
+*Master’s degree in Translation and New Technologies: Translation of Software and Multimedia Products (Spanish and English)*
 
-• Translation and localization of websites, videogames and software (English-Spanish)
-
-• Project management
 
 #### Pablo de Olavide University (Seville, Spain) (October 2012-October 2013)
-*Master’s degree in International Communication, Translation and Interpreting*
-
-• Specialized translation (scientific, legal, audiovisual, etc.) (English-Spanish)
-
-• Translation for international organizations
-
-• Translation and localization of websites and software products
+*Master’s degree in International Communication, Translation and Interpreting (Spanish and English)*
 
 #### Pablo de Olavide University (Seville, Spain) (October 2018-September 2012)
-*Bachelor degree in Translation and Interpreting*
+*Bachelor degree in Translation and Interpreting (Spanish, English and German)*
 
-• Mother tongue (Spanish) and foreign languages (English and German)
-
-• Specialized translation (scientific, technical, legal, etc.) (English-Spanish, German-Spanish). 
-
-• Consecutive and simultaneous interpreting (English-Spanish)
-
-• Technologies applied to translation
-
-• Audiovisual translation
 
 ## Experience
 
-**Lingoda GmbH** (Berlin, Germany) (November 2016-August 2018)    
-*Customer Service Junior Team Lead*
+**Customer Service Junior Team Lead** (November 2016-August 2018)    
+*Lingoda GmbH (Berlin, Germany)*
 
 • Management of Customer Service Team: hiring new team members, designing and implementing onboarding plan, tracking and managing performance of employees.
 
@@ -81,8 +63,8 @@ Programming Bootcamp. 16 weeks:
 
 • Crossfunctional projects with IT and Marketing Departments.
 
-**Lingoda GmbH** (Berlin, Germany) (July 2015-October 2016)   
-*Student Team Member*  
+**Student Team Member** (July 2015-October 2016)   
+*Lingoda GmbH (Berlin, Germany)*
 
 • Customer relationship management.
 
@@ -94,8 +76,8 @@ Programming Bootcamp. 16 weeks:
 
 • Translation and proofreading of marketing material.
 
-**Intiwawa e.V.** (Berlin, Germany) (October 2014-January 2015)   
-*Intern Translator (German-Spanish) and Assistant at Tourist Office*  
+**Intern Translator (German-Spanish) and Assistant at Tourist Office** (October 2014-January 2015)  
+*Intiwawa e.V. (Berlin, Germany)  
 
 • Translations of marketing material. 
 
@@ -103,8 +85,8 @@ Programming Bootcamp. 16 weeks:
 
 • Research and administration tasks.
 
-**Tatutrad S.L.** (Seville, Spain) (June 2013-July 2013)   
-*Intern Translator (English-Spanish)* 
+**Intern Translator (English-Spanish)** (June 2013-July 2013)   
+*Tatutrad S.L. (Seville, Spain)* 
 
 • Translation of technical and medical texts using Trados SDL 2007.
 
