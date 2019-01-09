@@ -76,7 +76,7 @@ Some of the situations that I found a solution for were, for example, finding a 
 
 • Translation and proofreading of marketing material.
 
-**Intern Translator (German-Spanish) and Assistant at Tourist Office** (October 2014-January 2015)  
+**Intern Translator (German-Spanish)** (October 2014-January 2015)  
 *Intiwawa e.V. (Berlin, Germany)*
 
 • Translations of marketing material. 
