@@ -1,5 +1,7 @@
 ## Cristina María Ocaña Manzano
 
+[Projects](#projects) - [Skills](#skills) - [Education](#education) - [Experience](#experience) - [Languages](#languages)- [Interests and hobbies](#interests-and-hobbies)
+
 ## Projects
 
 | Project | Description | Technologies |
@@ -49,7 +51,6 @@ Some of the situations that I found a solution for were, for example, finding a 
 
 #### International University Menéndez-Pelayo (online) (November 2012-July 2015)
 *Master’s degree in Translation and New Technologies: Translation of Software and Multimedia Products (Spanish and English)*
-
 
 #### Pablo de Olavide University (Seville, Spain) (October 2012-October 2013)
 *Master’s degree in International Communication, Translation and Interpreting (Spanish and English)*
@@ -110,6 +111,6 @@ Some of the situations that I found a solution for were, for example, finding a 
 ## Interests and hobbies
 • Languages, travelling and discovering different cultures
 
-• Reading historical and detective fictions
+• Historical and detective fictions
 
-• Playing adventure videogames
+• Adventure videogames
