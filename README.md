@@ -5,11 +5,10 @@
 | Project | Description | Technologies |
 | --- | --- | --- |
 | [Wardrobe App](https://github.com/cristinaocanamanzano/wardrobe-app) | This is app to help people find clothes that match, which reduces time spent getting ready in the morning | Ruby, Rails, JavaScript, PostgreSQL, Devise, CarrierWave, HTML, CSS, RSpec, Capybara, TravisCI |
-| [Bowling Challenge](https://github.com/cristinaocanamanzano/bowling-challenge) | This program is a bowling scorecard which allows you to add your bowling scores for each roll and it calculates the bonuses and total score for you | Javascript, Jasmine, HTML, CSS |
+| [Bowling Scorecard](https://github.com/cristinaocanamanzano/bowling-challenge) | This program is a bowling scorecard which allows you to add your bowling scores for each roll and it calculates the bonuses and total score for you | Javascript, Jasmine, HTML, CSS |
+| [Chitter](https://github.com/cristinaocanamanzano/chitter-challenge) | This program is a small version of Twitter, where users can post messages so that everyone can read them | Ruby, Sinatra, RSpec, Capybara, HTML, CSS, Datamapper, PostgreSQL |
 | [Rock, Paper, Scissors](https://github.com/cristinaocanamanzano/rps-challenge) | This program is a small web app to play rock, paper, scissors online against the computer | Ruby, Sinatra, RSpec, Capybara, HTML, CSS |
 | [FizzBuzz in Python](https://github.com/cristinaocanamanzano/fizzbuzz-challenge-python) | This project is a challenge proposed by Makers to learn a completely new language in only one day. Concretely, it consists of a small FizzBuzz program written in Python | Python, unittest |
-
-
 
 ## Skills
 
