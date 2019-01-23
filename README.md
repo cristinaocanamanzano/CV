@@ -1,6 +1,16 @@
 ## Cristina María Ocaña Manzano
 
-[Projects](#projects) - [Skills](#skills) - [Education](#education) - [Experience](#experience) - [Languages](#languages)- [Interests and hobbies](#interests-and-hobbies)
+[[About me](#about-me) -Projects](#projects) - [Skills](#skills) - [Education](#education) - [Experience](#experience) - [Languages](#languages)- [Interests and hobbies](#interests-and-hobbies)
+
+## About me
+
+I am an enthusiastic and engaged web development student. Currently looking for a position where I can bring value and contribute to the company's success while learning new technologies and improving my existing knowledge about them.
+
+With a translation background, and after more than 3 years working in the operations team at Lingoda, a startup based in Germany, I decided to make a change in my career and decided to become a web developer. 
+
+With that goal in mind, I joined Makers through the fellowship program in September. During this bootcamp, we learnt different languages and frameworks:Ruby, Rails, JavaScript, RSpec, Capybara, Jasmine, HTML and CSS, etc.
+
+We also did several group projects, which was a great opportunity to gain experience collaborating in a team, putting in practice an Agile approach and XP values, learning about continuous integration, etc.
 
 ## Projects
 
