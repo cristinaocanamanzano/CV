@@ -4,7 +4,7 @@
 
 ## About me
 
-I am an enthusiastic and engaged web development student. Currently looking for a position where I can bring value and contribute to the company's success while learning new technologies and improving my existing knowledge about them.
+I am an enthusiastic and engaged web development student.
 
 With a translation background, and after more than 3 years working in the operations team at Lingoda, a startup based in Germany, I decided to make a change in my career and decided to become a web developer. 
 
@@ -24,18 +24,17 @@ We also did several group projects, which was a great opportunity to gain experi
 
 ## Skills
 
-#### Attention to detail
-
-Studying and working as a translator made me become a very detailed-oriented person from a very early stage in my life. 
-
-After this, dealing with customer requests and a not-so-easy-to-understand platform and database during my three years working in Lingoda made my attention skills improve even more. In addition to this, I also had to build and run reports on a weekly basis, which allowed me to develop these skills even more. 
-
-
 #### Analytical and data-driven thinker 
 
 Working in a startup for more than 3 years has taught me the importance of obtaining relevant data and analyzing relevant scenarios and situations before taking any decisions that can affect the whole company.
 
 During my time in Lingoda, I had the opportunity to learn how to collect data from the database using SQL and to combine it with the input from the customers. This allowed me to draft and suggest different alternatives and solutions for different purposes: improve the implementation of the promotions, optimize the functionalities of the learning platform, establish new email flows or improve the existing ones, etc.
+
+#### Attention to detail
+
+Studying and working as a translator made me become a very detailed-oriented person from a very early stage in my life. 
+
+After this, dealing with customer requests and a not-so-easy-to-understand platform and database during my three years working in Lingoda made my attention skills improve even more. In addition to this, I also had to build and run reports on a weekly basis, which allowed me to develop these skills further. 
 
 #### Solution oriented
 
@@ -55,11 +54,7 @@ Some of the situations that I found a solution for were, for example:
   
   • RSpec, Capybara, Jasmine
   
-  • TDD
-  
-  • Pair programming
-  
-  • Agile philosophy
+  • TDD, pair programming, Agile philosophy
 
 #### International University Menéndez-Pelayo (online) (November 2012-July 2015)
 *Master’s degree in Translation and New Technologies: Translation of Software and Multimedia Products (Spanish and English)*
