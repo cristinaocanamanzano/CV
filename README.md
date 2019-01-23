@@ -1,6 +1,6 @@
 ## Cristina María Ocaña Manzano
 
-[[About me](#about-me) -Projects](#projects) - [Skills](#skills) - [Education](#education) - [Experience](#experience) - [Languages](#languages)- [Interests and hobbies](#interests-and-hobbies)
+[About me](#about-me) - [Projects](#projects) - [Skills](#skills) - [Education](#education) - [Experience](#experience) - [Languages](#languages)- [Interests and hobbies](#interests-and-hobbies)
 
 ## About me
 
