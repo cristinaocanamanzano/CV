@@ -41,8 +41,10 @@ After this, dealing with customer requests and a not-so-easy-to-understand platf
 Working within the Operations Team in Lingoda has shaped my mind and behaviour patterns in such a way I have become quite effective at finding and suggesting solutions to complicated situations and issues. This has not only affect me from a professional point of view, but also from a personal one. Thanks to my time in this company, now I always try to analyze every possible alternative to solve any problem instead of being stuck thinking "we should have done this differently".
 
 Some of the situations that I found a solution for were, for example: 
-• Finding a software that distributes request tickets automatically among the agents (which translated into a huge amount of time saved since we were doing this manually before)
-• Building a remote team of agents located in different timezones to cover the shifts outside of our office hours
+
+  • Finding a software that distributes request tickets automatically among the agents (which translated into a huge amount of time saved since we were doing this manually before)
+
+  • Building a remote team of agents located in different timezones to cover the shifts outside of our office hours
 
 ## Education
 
