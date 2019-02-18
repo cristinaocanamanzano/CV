@@ -105,6 +105,15 @@ Some of the situations that I found a solution for were, for example:
 
 • Research and administration tasks.
 
+**Translator (English-Spanish)** (November 2013-April 2014)   
+*Traduloc S.L. (Seville, Spain)* 
+
+• Translation of technical, scientific, medical and legal texts using different computer-assisted translation tools. 
+
+• Post-editing of automatic translations. 
+
+• Proofreading of projects and quality assurance.
+
 **Intern Translator (English-Spanish)** (June 2013-July 2013)   
 *Tatutrad S.L. (Seville, Spain)* 
 
@@ -116,6 +125,8 @@ Some of the situations that I found a solution for were, for example:
 • English (C1 level)
 
 • German (B2-C1 level)
+
+• French (B1 level)
 
 ## Interests and hobbies
 • Languages, travelling and discovering different cultures
