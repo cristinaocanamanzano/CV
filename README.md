@@ -38,7 +38,7 @@ After this, dealing with customer requests and a not-so-easy-to-understand platf
 
 #### Solution oriented
 
-Working within the Operations Team in Lingoda has shaped my mind and behaviour patterns in such a way I have become quite effective at finding and suggesting solutions to complicated situations and issues. This has not only affect me from a professional point of view, but also from a personal one. Thanks to my time in this company, now I always try to analyze every possible alternative to solve any problem instead of being stuck thinking "we should have done this differently".
+Working within the Operations Team in Lingoda has shaped my mind and behaviour patterns in such a way I have become quite effective at finding and suggesting solutions to complicated situations and issues. Thanks to my time in this company, now I always try to analyze every possible alternative to solve any problem instead of being stuck thinking "we should have done this differently".
 
 Some of the situations that I found a solution for were, for example: 
 
